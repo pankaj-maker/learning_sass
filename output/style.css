@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.a {
+  height: 100px;
+  width: 200px;
+  border: 1px solid blue;
+}
+
+.b {
+  height: 100px;
+  width: 100px;
+  border: 1px solid blue;
+}
+
+/*# sourceMappingURL=style.css.map */
